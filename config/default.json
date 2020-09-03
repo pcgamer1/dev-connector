@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://pcgamer:<password>@cluster0-e5fxm.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mern",
+  "githubClientId": "ef2d7917e905ecbf6a72",
+  "githubSecret": "ed88472494d84c5f0a9b46304b812343449e698e"
+}
